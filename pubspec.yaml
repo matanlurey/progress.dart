@@ -1,7 +1,7 @@
 name: progress
 description: >
   Compute progress of a long-running process.
-version: 0.1.0
+version: 0.1.0+1
 authors:
   - Matan Lurey <matanl@google.com>
 homepage: https://github.com/matanlurey/progress.dart
