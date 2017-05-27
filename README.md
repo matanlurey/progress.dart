@@ -3,8 +3,8 @@
 Compute progress of a long-running process.
 
 [![pub package](https://img.shields.io/pub/v/progress.svg)](https://pub.dartlang.org/packages/progress)
-[![Build Status](https://travis-ci.org/matanlurey/progress.svg)](https://travis-ci.org/matanlurey/progress)
-[![Coverage Status](https://coveralls.io/repos/github/matanlurey/progress/badge.svg?branch=master)](https://coveralls.io/github/matanlurey/progress?branch=master)
+[![Build Status](https://travis-ci.org/matanlurey/progress.dart.svg)](https://travis-ci.org/matanlurey/progress.dart)
+[![Coverage Status](https://coveralls.io/repos/github/matanlurey/progress.dart/badge.svg?branch=master)](https://coveralls.io/github/matanlurey/progress.dart?branch=master)
 
 This package is platform agnostic, and will work equally well for command-line
 applications (CLI), mobile applications on [Flutter][], and web applications
